@@ -1,0 +1,9 @@
+{
+  "info": {
+    "name": "Information Inquiry API"
+    "version": "1.0.0"
+  },
+  "flowers": {
+    "ch": "3"
+  }
+}
