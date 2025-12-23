@@ -6,7 +6,7 @@ const { exec } = require('child_process'); // 用于执行Git命令
 // ============= 第二部分：基本配置 =============
 const app = express();                   // 创建Express应用
 const PORT = 3000;                       // 服务器端口
-const SECRET = 'my_github_secret';       // GitHub Webhook密钥（改成你自己的）
+const SECRET = 'OzbQYEhEvKcmMauK1FoMSnVPe7oq7PX9Cs05w';       // GitHub Webhook密钥
 
 // ============= 第三部分：设置中间件 =============
 app.use(express.json());                 // 让服务器能解析JSON数据
