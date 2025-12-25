@@ -1,9 +1,22 @@
 {
-  "info": {
-    "name": "Information Inquiry API"
+  "APIinfo": {
+    "name": "Information Inquiry API",
     "version": "1.0.0"
   },
-  "flowers": {
-    "ch": "3"
-  }
+  "userdata": [
+    {
+      "email": "w4ertyuio@163.com",
+      "password": "Qaz1Wsx2",
+      "flowers": {
+        "th": 2
+      }
+    },
+    {
+      "email": "w4ertyuio@outlook.com",
+      "password": "!@#4567890",
+      "flowers": {
+        "fn": 1
+      }
+    }
+  ]
 }
